@@ -7,4 +7,4 @@
 
 [Creative Commons Zero v1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/)
 
-Text available at [./LICENSE](LICENSE).
+Text available at [LICENSE](https://github.com/theel0ja/opendata/blob/master/LICENSE).
